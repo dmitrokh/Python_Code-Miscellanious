@@ -1,0 +1,21 @@
+To:
+<name>
+<addr>
+
+From:
+ABC Coding Company
+1 Syntax Lane
+Virtualville, CA  00000
+
+
+<greeting>
+
+ABC Coding Company would like to wish you the happiest of holiday seasons this
+year.  We have enjoyed working with you over the year, and hope the new year
+will bring you lot's of cohesion with minimal coupling.
+
+<recruit>
+Sincerely,
+
+Jason Spencer, Chief Hacker
+ABC Coding Company

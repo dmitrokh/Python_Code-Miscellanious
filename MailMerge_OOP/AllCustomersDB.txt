@@ -1,0 +1,31 @@
+# Customer Database
+
+[customer]
+type = business
+name = Bad Company, Inc.
+contact = Paul Rodgers
+contact_title = Chief Singing Officer
+greeting = Dear Paul, 
+street = 124 Straight Shooter Blvd.
+number = 215
+city = New York
+state = NY
+zip = 12345
+
+[customer]
+type = business
+name = ACME Shoe Company
+street = 523 Gum Works Dr.
+city = San Bernardino
+state = CA
+zip = 98765
+
+[customer]
+type = person
+name = Joe Coder
+street = 1117 Recursive Road
+number = A
+greeting = Dear Joe, 
+city = Sacramento
+state = CA
+zip = 98765
